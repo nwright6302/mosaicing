@@ -1,0 +1,4 @@
+mosaicing
+=========
+
+IPHAS/VPHAS+ mosaicing
